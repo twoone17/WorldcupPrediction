@@ -11,6 +11,7 @@ https://www.kaggle.com/datasets/stefanoleone992/fifa-21-complete-player-dataset
 
 https://www.kaggle.com/datasets/cashncarry/fifaworldranking
 
+<h1>See more details in termproject.ipynb </h1>
 <h2>Result </h2>
 
 ![image](https://user-images.githubusercontent.com/84762786/195797331-df44173a-4ff8-4454-bfdb-17bf77378021.png)
